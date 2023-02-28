@@ -1,0 +1,15 @@
+---
+:id: 154737307
+:submitters:
+- :name: Aiden Jung
+  :email: junghyun@grinnell.edu
+- :name: Jiyoung Chang
+  :email: changjiy@grinnell.edu
+- :name: Muqi Guo
+  :email: guomuqi@grinnell.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2022-12-16 22:36:46.976866000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2022-12-16 14:36:46.976866000 Z
+:status: processed
