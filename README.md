@@ -21,15 +21,18 @@ What is your word length?
 Do you want to play a game?
 1. Yes
 2. No
-Answer: 2
+
+2
 
 What is your word?
+
 apple
 
 Which algorithm do you want to use?
 1. Random Candidate
 2. Statistically Optimal Candidate
-Answer: 2
+
+2
 
 tares
 
